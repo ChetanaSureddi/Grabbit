@@ -22,7 +22,7 @@ await connectDB();          //db connection
 await connectCloudinary();  //cloudinary connection
 
 //Allow multiple Origins
-const allowedOrigins =['http://localhost:5173','https://zesty-beta.vercel.app']
+const allowedOrigins =['http://localhost:5173','https://Grabbit-beta.vercel.app']
 
 app.post('/stripe',express.raw({type:'application/json'}), stripeWebhooks);
 

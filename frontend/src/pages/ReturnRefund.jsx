@@ -24,7 +24,7 @@ const ReturnRefund = () => {
         <h2 className="text-xl font-semibold mt-6 text-primary"> Exchanges</h2>
         <p>We only replace items if they are defective or damaged. If you need an exchange, contact our support team with your order number.</p>
 
-        <p className="mt-8 text-sm text-gray-500">For any questions, reach out to <a href="mailto:support@zesty.com" className="text-primary-dull underline">support@zesty.com</a>.</p>
+        <p className="mt-8 text-sm text-gray-500">For any questions, reach out to <a href="mailto:support@Grabbit.com" className="text-primary-dull underline">support@Grabbit.com</a>.</p>
       </div>
     </div>
   );

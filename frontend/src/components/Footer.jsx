@@ -7,8 +7,8 @@ const Footer = () => {
             <div className="flex flex-col md:flex-row items-start justify-between gap-10 py-10 border-b border-gray-500/30 text-gray-500">
                 <div>
                     <div className='flex items-center text-black'>
-                        <div className="text-2xl md:text-4xl lg:text-5xl">Zesty</div>
-                        <img className="w-8 md:w-12 lg:w-14" src={assets.logo_zesty} alt="logo" />{" "}
+                        <div className="text-2xl md:text-4xl lg:text-5xl">Grabbit</div>
+                        <img className="w-8 md:w-12 lg:w-14" src={assets.Grabbit_icon} alt="logo" />{" "}
 
                     </div>
 
@@ -30,7 +30,7 @@ const Footer = () => {
                 </div>
             </div>
             <p className="py-4 text-center text-sm md:text-base text-gray-500/80">
-                Copyright {new Date().getFullYear()} © Zesty All Right Reserved.
+                Copyright {new Date().getFullYear()} © Grabbit All Right Reserved.
             </p>
         </div>
     );

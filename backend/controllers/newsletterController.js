@@ -31,7 +31,7 @@ export const subscribe = async (req, res) => {
             to: email,
             subject: "Thanks for Subscribing!",
             html: `
-        <h3>🎉 Thanks for subscribing to Zesty!</h3>
+        <h3>🎉 Thanks for subscribing to Grabbit!</h3>
         <p>You'll now receive the latest offers, new arrivals, and discounts.</p>
         <p>If you wish to unsubscribe, <a href="${process.env.BASE_API_URL}/api/newsletter/unsubscribe?email=${email}">click here</a>.</p>
       `

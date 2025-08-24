@@ -26,7 +26,7 @@ function Contact() {
           <FiMail className="text-primary mt-1" />
           <div>
             <h3 className="font-medium text-gray-700">Email:</h3>
-            <p className="text-gray-600">support@zestygroceries.com</p>
+            <p className="text-gray-600">support@Grabbitgroceries.com</p>
           </div>
         </div>
 
@@ -34,7 +34,7 @@ function Contact() {
           <FiMapPin className="text-primary mt-1" />
           <div>
             <h3 className="font-medium text-gray-700">Address:</h3>
-            <p className="text-gray-600">123 Zesty Lane, Freshville, USA</p>
+            <p className="text-gray-600">123 Grabbit Lane, Freshville, USA</p>
           </div>
         </div>
 

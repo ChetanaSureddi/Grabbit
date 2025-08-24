@@ -48,8 +48,8 @@ const Navbar = () => {
 
             <NavLink to='/' onClick={() => setOpen(false)}>
                 <div className='flex items-center text-black'>
-                    <div className="text-2xl md:text-4xl lg:text-5xl">Zesty</div>
-                    <img className="w-8 md:w-12 lg:w-14" src={assets.logo_zesty} alt="logo" />{" "}
+                    <div className="text-2xl md:text-4xl lg:text-5xl">Grabbit</div>
+                    <img className="w-12 md:w-16 lg:w-18" src={assets.Grabbit_icon} alt="logo" />{" "}
 
                 </div>
             </NavLink>

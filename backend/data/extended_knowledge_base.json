@@ -33,11 +33,11 @@
   },
   {
     "question": "Where can I add my address?",
-    "answer": "You can add your delivery address during checkout or directly at: https://zesty-beta.vercel.app/add-address"
+    "answer": "You can add your delivery address during checkout or directly at: https://Grabbit-beta.vercel.app/add-address"
   },
   {
     "question": "Can I change my address?",
-    "answer": "Yes! You can change your address during checkout or at https://zesty-beta.vercel.app/add-address"
+    "answer": "Yes! You can change your address during checkout or at https://Grabbit-beta.vercel.app/add-address"
   },
   {
     "question": "How can I pay?",
@@ -61,7 +61,7 @@
   },
   {
     "question": "Can I cancel my order?",
-    "answer": "Cancelling orders isn't available via app. Please contact support at support@zestygroceries.com for help."
+    "answer": "Cancelling orders isn't available via app. Please contact support at support@Grabbitgroceries.com for help."
   },
   {
     "question": "How do I get a refund?",
@@ -69,7 +69,7 @@
   },
   {
     "question": "How can I subscribe to offers?",
-    "answer": "Scroll to the bottom of our homepage and fill out the newsletter form: https://zesty-beta.vercel.app. You\u2019ll get updates and deals in your inbox!"
+    "answer": "Scroll to the bottom of our homepage and fill out the newsletter form: https://Grabbit-beta.vercel.app. You\u2019ll get updates and deals in your inbox!"
   },
   {
     "question": "How do I unsubscribe from newsletter?",
@@ -77,7 +77,7 @@
   },
   {
     "question": "How do I contact support?",
-    "answer": "You can email us at support@zestygroceries.com or call +1 (234) 567-8901 (Mon\u2013Sat, 9 AM\u20138 PM)."
+    "answer": "You can email us at support@Grabbitgroceries.com or call +1 (234) 567-8901 (Mon\u2013Sat, 9 AM\u20138 PM)."
   },
   {
     "question": "Is customer service available on weekends?",
@@ -85,102 +85,102 @@
   },
   {
     "question": "Where can I find top discounts?",
-    "answer": "Visit the 'Top Discounts' section on the homepage or go to: https://zesty-beta.vercel.app/#topDiscounts"
+    "answer": "Visit the 'Top Discounts' section on the homepage or go to: https://Grabbit-beta.vercel.app/#topDiscounts"
   },
   {
     "question": "Where are best sellers shown?",
-    "answer": "You\u2019ll find them in the 'Best Sellers' section of the homepage or visit: https://zesty-beta.vercel.app/#bestsellers"
+    "answer": "You\u2019ll find them in the 'Best Sellers' section of the homepage or visit: https://Grabbit-beta.vercel.app/#bestsellers"
   },
   {
     "question": "What categories do you have?",
-    "answer": "We offer Organic Veggies, Fresh Fruits, Drinks, Instant Foods, Dairy, Bakery, and Grains & Cereals. See all at https://zesty-beta.vercel.app/products"
+    "answer": "We offer Organic Veggies, Fresh Fruits, Drinks, Instant Foods, Dairy, Bakery, and Grains & Cereals. See all at https://Grabbit-beta.vercel.app/products"
   },
   {
-    "question": "What is Zesty known for?",
+    "question": "What is Grabbit known for?",
     "answer": "We\u2019re known for lightning-fast delivery, unbeatable freshness, and affordable prices. Trusted by over 10,000 happy customers!"
   },
   {
-    "question": "What makes Zesty different?",
-    "answer": "Zesty offers 30-minute delivery, farm-fresh products, great prices, and a user-friendly shopping experience."
+    "question": "What makes Grabbit different?",
+    "answer": "Grabbit offers 30-minute delivery, farm-fresh products, great prices, and a user-friendly shopping experience."
   },
   {
     "question": "Where can I view my order history?",
-    "answer": "You can view your past and current orders on the My Orders page: https://zesty-beta.vercel.app/my-orders"
+    "answer": "You can view your past and current orders on the My Orders page: https://Grabbit-beta.vercel.app/my-orders"
   },
   {
     "question": "How do I track my order status?",
-    "answer": "Go to the My Orders section here: https://zesty-beta.vercel.app/my-orders to check your order status."
+    "answer": "Go to the My Orders section here: https://Grabbit-beta.vercel.app/my-orders to check your order status."
   },
   {
     "question": "How do I go back to the homepage?",
-    "answer": "You can visit the Zesty homepage using this link: https://zesty-beta.vercel.app/"
+    "answer": "You can visit the Grabbit homepage using this link: https://Grabbit-beta.vercel.app/"
   },
   {
     "question": "Where can I browse all available products?",
-    "answer": "Visit the All Products page to explore our full catalog: https://zesty-beta.vercel.app/products"
+    "answer": "Visit the All Products page to explore our full catalog: https://Grabbit-beta.vercel.app/products"
   },
   {
     "question": "How do I contact the support team?",
-    "answer": "You can reach out to our support team through the Contact page: https://zesty-beta.vercel.app/contact"
+    "answer": "You can reach out to our support team through the Contact page: https://Grabbit-beta.vercel.app/contact"
   },
   {
     "question": "Where can I find the return and refund policy?",
-    "answer": "Our return and refund policy is available here: https://zesty-beta.vercel.app/return-refund-policy"
+    "answer": "Our return and refund policy is available here: https://Grabbit-beta.vercel.app/return-refund-policy"
   },
   {
     "question": "How do I view the FAQ section?",
-    "answer": "You can view our frequently asked questions here: https://zesty-beta.vercel.app/faq"
+    "answer": "You can view our frequently asked questions here: https://Grabbit-beta.vercel.app/faq"
   },
   {
     "question": "Where can I find vegetables?",
-    "answer": "Visit our Vegetables category here: https://zesty-beta.vercel.app/products/vegetables"
+    "answer": "Visit our Vegetables category here: https://Grabbit-beta.vercel.app/products/vegetables"
   },
   {
     "question": "Where are the fruits listed?",
-    "answer": "You can browse our Fruits collection here: https://zesty-beta.vercel.app/products/fruits"
+    "answer": "You can browse our Fruits collection here: https://Grabbit-beta.vercel.app/products/fruits"
   },
   {
     "question": "Where can I buy drinks?",
-    "answer": "Explore our Drinks category here: https://zesty-beta.vercel.app/products/drinks"
+    "answer": "Explore our Drinks category here: https://Grabbit-beta.vercel.app/products/drinks"
   },
   {
     "question": "Do you have instant or fast food options?",
-    "answer": "Yes, check our Instant Food section here: https://zesty-beta.vercel.app/products/instant"
+    "answer": "Yes, check our Instant Food section here: https://Grabbit-beta.vercel.app/products/instant"
   },
   {
     "question": "Where are dairy products available?",
-    "answer": "All dairy items can be found here: https://zesty-beta.vercel.app/products/dairy"
+    "answer": "All dairy items can be found here: https://Grabbit-beta.vercel.app/products/dairy"
   },
   {
     "question": "Where can I buy bakery items?",
-    "answer": "Visit our Bakery section here: https://zesty-beta.vercel.app/products/bakery"
+    "answer": "Visit our Bakery section here: https://Grabbit-beta.vercel.app/products/bakery"
   },
   {
     "question": "Where can I find grains and cereals?",
-    "answer": "Check the Grains and Cereals category here: https://zesty-beta.vercel.app/products/grains"
+    "answer": "Check the Grains and Cereals category here: https://Grabbit-beta.vercel.app/products/grains"
   },
   {
     "question": "Where can I find the best selling products?",
-    "answer": "You can check out our Best Sellers section here: https://zesty-beta.vercel.app/#bestsellers"
+    "answer": "You can check out our Best Sellers section here: https://Grabbit-beta.vercel.app/#bestsellers"
   },
   {
     "question": "Where can I see top discounted products?",
-    "answer": "Check our Top Discounts here: https://zesty-beta.vercel.app/#topDiscounts"
+    "answer": "Check our Top Discounts here: https://Grabbit-beta.vercel.app/#topDiscounts"
   },
   {
     "question": "How do I view my shopping cart?",
-    "answer": "Go to your Cart page here: https://zesty-beta.vercel.app/cart"
+    "answer": "Go to your Cart page here: https://Grabbit-beta.vercel.app/cart"
   },
   {
     "question": "How do I add a new delivery address?",
-    "answer": "You can add your address here: https://zesty-beta.vercel.app/add-address"
+    "answer": "You can add your address here: https://Grabbit-beta.vercel.app/add-address"
   },
   {
     "question": "How do I edit my profile information?",
-    "answer": "You can update your profile details here: https://zesty-beta.vercel.app/edit-profile"
+    "answer": "You can update your profile details here: https://Grabbit-beta.vercel.app/edit-profile"
   },
   {
     "question": "Where do I go to update my delivery address?",
-    "answer": "Update your delivery information at: https://zesty-beta.vercel.app/add-address"
+    "answer": "Update your delivery information at: https://Grabbit-beta.vercel.app/add-address"
   }
 ]

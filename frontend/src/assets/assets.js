@@ -74,6 +74,7 @@ import logo_zesty from './logo_zesty-cropped.svg';
 import robot_icon from './robot.png';
 import banner_desktop from './banner_desktop.png';
 import banner_mobile from './banner_mobile.png'
+import Grabbit_icon from './Grabbit_icon.svg'
 
 export const assets = {
   logo,
@@ -107,7 +108,8 @@ export const assets = {
   logo_zesty,
   robot_icon,
   banner_desktop,
-  banner_mobile
+  banner_mobile,
+  Grabbit_icon
 };
 
 export const categories = [
